@@ -9,7 +9,7 @@
 
 * **This study measured the effectiveness of various drugs on 249 mice identified with SCC tumor growth.**
 
-* **We removed one mouse from the group (g989), because of duplicate timepoints in the study. 248 mice were analyzed for this study.**
+* **We removed one mouse from the group (g989), because of duplicate timepoints in the study. The following analysis was performed on 248 mice.**
 
 * **We ultimately analyzed tumor volume using only the four drug treatments Capomulin, Ramicane, Infubinol, and Ceftamin.**
 
